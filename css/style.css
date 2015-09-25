@@ -10,7 +10,7 @@ body{
 }
 .header{
   height:278px;
-  background-color:#19ad2b;
+  background-color:#00b732;
   margin-top:-30px;
 }
 .header-text{
@@ -120,6 +120,10 @@ caption{
   margin-bottom:2px;
   text-align:left;
 }
+.table {
+  margin-top: 20px;
+}
+
 .table td{
   color:#747474;
   padding-right:25px;
