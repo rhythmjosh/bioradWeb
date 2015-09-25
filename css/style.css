@@ -165,6 +165,10 @@ caption{
   color:black;
   margin-left:55px;
   margin-top:10px;
+  text-decoration: none;
+  font-weight: bold;
+  display: inline-block;
+  margin-top: 15px;
 }
 footer{
   background-color:#f1f1f1;
